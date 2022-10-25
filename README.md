@@ -12,4 +12,4 @@ Summary:Based on the results, provide three business recommendations to the CEO 
 
 1) We can predict that there are good opportunities to expand the business in rural and suburban cities
 2) The Urban cities fare is the highest/consistent, giving us great and new business opportunities to expand rides.
-3) The Rural cities fare is the lowest of the other two city types (Urban and Suburban cities), in addition, fares didnt intersect. Knowing that all fares never intersect, we can expand fares and increase business financial income to the company without affecting our rate.
+3) The Rural cities fare is the lowest of the other two city types (Urban and Suburban cities), in addition, fares didnt intersect. 
